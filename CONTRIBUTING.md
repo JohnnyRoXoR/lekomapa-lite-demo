@@ -15,4 +15,6 @@ We accept pull requests for small fixes and improvements:
 - Ensure code follows PEP 8 style guidelines and include tests if applicable.
 - Submit a pull request and describe your changes.
 
-Thank you for your support!
+## Support
+
+If you find this project useful, please consider supporting its development by buying us a coffee at <https://www.buymeacoffee.com/lekomapa>. Your support helps maintain and improve LekoMapa Lite.
